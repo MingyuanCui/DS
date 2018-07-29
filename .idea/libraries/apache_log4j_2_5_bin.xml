@@ -1,0 +1,48 @@
+<component name="libraryTable">
+  <library name="apache-log4j-2.5-bin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jcl-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-taglib-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jul-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-web-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-flume-ng-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-iostreams-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-to-slf4j-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-core-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jul-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-nosql-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-taglib-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-to-slf4j-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-core-2.5-tests.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-1.2-api-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-1.2-api-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-api-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-nosql-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-web-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jul-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-nosql-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-slf4j-impl-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-taglib-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-1.2-api-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-core-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-web-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-slf4j-impl-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-slf4j-impl-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jcl-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-to-slf4j-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jmx-gui-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-flume-ng-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-api-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jmx-gui-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jmx-gui-2.5-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-flume-ng-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-core-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-iostreams-2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-iostreams-2.5-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/apache-log4j-2.5-bin/log4j-jcl-2.5-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
