@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="apache-log4j-2.5-bin" level="project" />
+    <orderEntry type="library" name="commons-cli-1.3.1" level="project" />
+    <orderEntry type="library" name="DIABLO-IV-Project1" level="project" />
+    <orderEntry type="library" name="skeleton" level="project" />
+    <orderEntry type="library" name="lib" level="project" />
+    <orderEntry type="library" name="skeleton_client_jar" level="project" />
+  </component>
+</module>
